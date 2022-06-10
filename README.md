@@ -32,6 +32,10 @@ ALUCARD: kisama, nani mono da!
 ### 1.2.1 https://youtu.be/f5imNQZXKtU?t=522
 ROLL: doushita no, ROCK?
 
+## 1.3 アーマードコア　プロジェクトファンタズマ RTA
+
+### 1.3.1 https://youtu.be/XpUcbSCdx_w?t=146
+TSUUSHIN: sakusen ryouiki ni touchaku shimashita
 
 # 2. Open Source Software License
 Copyright 2022 SYSON, MICHAEL B.
