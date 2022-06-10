@@ -16,7 +16,7 @@ Continue to increase know-how to build Electronic Book Readers with Human-Comput
 ## 1.1 悪魔城ドラキュラX 月下の夜想曲
 
 ### 1.1.1 https://youtu.be/CHZiDQTgoTY?t=128
-Belmont v.s. Dracula
+Belmond v.s. Dracula
 
 ### 1.1.2 https://youtu.be/CHZiDQTgoTY?t=1147
 MARIA: mokuteki ha?
