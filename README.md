@@ -9,7 +9,10 @@ OpenGL : 3D Graphics techniques
 
 ## Objective
 Continue to increase know-how to build Electronic Book Readers with Human-Computer Interactivity<br/>
-<br/>
+
+## Example R&D Work Output
+http://store.usbong.ph/server/videos/viewVideo.php;<br/>
+last accessed: 20220615
 
 # 1. Recommended References
 
