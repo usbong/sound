@@ -11,8 +11,15 @@ OpenGL : 3D Graphics techniques
 Continue to increase know-how to build Electronic Book Readers with Human-Computer Interactivity<br/>
 
 ## Example R&D Work Output
-http://store.usbong.ph/server/videos/viewVideo.php;<br/>
+1) http://store.usbong.ph/server/videos/viewVideo.php;<br/>
 last accessed: 20220615
+
+2) observed: G'NG (Super Family Computer) Buzzing at START;<br/>
+--> remembered: MOTHER 2 (Super Family Computer);<br/>
+--> verified: IF due to SOUND Channel Chip;<br/> 
+--> How to QUICKLY remove via Television Setting? et cetera;<br/>
+--> <b>Reference:</b> https://shmups.system11.org/viewtopic.php?f=6&t=65546;<br/> 
+--> last accessed: 20220719
 
 # 1. Recommended References
 
