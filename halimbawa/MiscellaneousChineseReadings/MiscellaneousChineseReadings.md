@@ -6,6 +6,9 @@
 
 > 這意味著,舉例來說,改變或避免你感到悲哀的事情,很可能會讓你比較不悲哀,但是可能不會讓你快樂多少.
 
+This signifies, to say an example, that changing or escaping from your sadness can very possibly let you be comparatively NOT sad, but it CANNOT possibly let you be any happier.
+
+
 ### Reference
 
 ISBN978-986-6802-45-4
