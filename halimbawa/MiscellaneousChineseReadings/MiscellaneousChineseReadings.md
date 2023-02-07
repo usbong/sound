@@ -12,8 +12,7 @@ This signifies, to say an example, that changing or escaping from your feeling o
 
 ### Translated from Chinese Mandarin
 
-Ibig sabihin nito, kung magbibigay ako ng halimbawa, baguhin o lisanin mo ang pakiramdam ng lungkot, maaaring magdulot ito ng iyong pagiging HINDI kahambing-hambing na lungkot, bagama't maaaring HINDI magdulot ito ng anumang ligaya.
-
+Ibig sabihin nito, kung magbibigay ako ng halimbawa, baguhin o lisanin mo ang pakiramdam ng lungkot, maaaring magdulot ito ng iyong kahambing-hambing na pagiging HINDI malungkot, bagama't maaaring HINDI magdulot ito ng anumang ligaya.
 
 ### Reference
 
