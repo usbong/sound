@@ -12,3 +12,6 @@ keyphrase: evesdropping via unauthorized access of mic via macBookPro<br/>
 --> adds: sound NOT audible without earphones,<br/>
 --> to be captured by mic via another device;
 
+### REMINDER of observation
+
+notes: with macBookPro, mic and earphones together use only ONE (1) input slot
