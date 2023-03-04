@@ -63,4 +63,8 @@ SNSで、旅行の写真など
 
 ### USBONG NOTES
 
-1. observed: recorded files’ noticeable increase of used TIME, 20MINS, 16MINS…, albeit verifying technique to decrease
+1. observed: recorded files’ noticeable increase of used TIME, 20MINS, 16MINS…, <br/>
+--> albeit verifying technique to decrease
+
+2. 大問題（大きな問題；だいもんだい）
+3. 「借りてくれる」ー＞「貸してくれる」
