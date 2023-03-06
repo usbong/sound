@@ -56,6 +56,7 @@
 
 1) Kuan-chung, Lo. (2002). "Romance of the three kingdoms Volume II". Singapore: TUTTLE Publishing; translated by Taylor, C.H.
 2) GOOGLE SEARCH ENGINE
+3) Wang, K., et al. (2007). "Common knowledge about Chinese history". Hong-Kong: xianggang zhongguo lvyou chubanshe
 
 —
 
