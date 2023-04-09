@@ -10,7 +10,12 @@ OpenGL : 3D Graphics techniques
 ## Objective
 Continue to increase know-how to build Electronic Book Readers with Human-Computer Interactivity<br/>
 
-## Example R&D Work Output
+## Example R&D Work Output#1
+
+<b>nihongo class:</b> http://store.usbong.ph/source/sound/ (日本語)<br/>
+--> https://github.com/usbong/sound/blob/main/halimbawa/nihongoClass/
+
+## Example R&D Work Output#2
 1) http://store.usbong.ph/server/videos/viewVideo.php;<br/>
 last accessed: 20220615
 
