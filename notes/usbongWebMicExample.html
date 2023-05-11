@@ -1,0 +1,54 @@
+﻿<!--
+/*
+' Copyright 2023 USBONG
+'
+' Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You ' may obtain a copy of the License at
+'
+' http://www.apache.org/licenses/LICENSE-2.0
+'
+' Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, ' WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing ' permissions and limitations under the License.
+'
+' @company: USBONG
+' @author: SYSON, MICHAEL B.
+' @date created: 20230511
+' @date updated: 20230511
+' @website: www.usbong.ph
+'
+'*/
+-->
+
+<html>
+<script>
+//Reference: https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API/Build_a_phone_with_peerjs/Connect_peers/Get_microphone_permission;
+//last accessed: 20230511
+
+/* global Peer */
+
+/**
+ * Gets the local audio stream of the current caller
+ * @param callbacks - an object to set the success/error behavior
+ * @returns {void}
+ */
+
+function getLocalStream() {
+  navigator.mediaDevices
+    .getUserMedia({ video: false, audio: true })
+    .then((stream) => {
+      window.localStream = stream;
+      window.localAudio.srcObject = stream;
+      window.localAudio.autoplay = true;
+    })
+    .catch((err) => {
+      console.error(`you got an error: ${err}`);
+    });
+}
+
+getLocalStream();
+
+//TO-DO: -verify: https://developer.mozilla.org/en-US/docs/Web/API/MediaStream_Recording_API/Using_the_MediaStream_Recording_API#capturing_the_media_stream;
+//last accessed: 20230511
+
+</script>
+	<body>
+	</body>
+</html>
